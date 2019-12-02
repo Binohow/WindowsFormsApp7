@@ -1,0 +1,10 @@
+Y:\C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+Y:\C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+Y:\C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+Y:\C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
